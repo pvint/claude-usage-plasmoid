@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "org.pvint.claudeusage",
+        "Name": "Claude Usage",
+        "Description": "Shows Claude 5-hour usage as a bar on the panel",
+        "Icon": "utilities-system-monitor",
+        "Authors": [{ "Name": "pvint" }],
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
