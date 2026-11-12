@@ -1,5 +1,7 @@
 # Claude Usage (KDE Plasma 6 widget)
 
+![The widget in a panel, with its tooltip showing usage percentages and reset times](screenie.png)
+
 A panel widget that shows Claude's 5-hour and weekly usage as two stacked bars
 (`5h` on top, `wk` below). The bars turn green, then yellow at 70%, then red at 90%.
 Hover for exact percentages and reset times. Click to open a popup with details;
